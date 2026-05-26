@@ -106,6 +106,17 @@ Actively seeking entry-level Data Analyst / Junior Data Analyst roles — Full-t
 - **Results:** West region leads sales ($700K+) | Technology most profitable | Tables & Bookcases are loss-making
 - **Skills:** SQL joins, aggregations, GROUP BY, HAVING, subqueries, business intelligence
 
+- | 11 | Heart Disease Prediction | Python, ML, Scikit-learn | Kaggle |
+
+### 1️⃣1️⃣ Heart Disease Prediction — Healthcare ⭐
+- **Dataset:** Heart Disease UCI — 1,025 patients | 14 features
+- **Goal:** Predict heart disease risk using patient clinical data
+- **Tools:** Python, Scikit-learn, Pandas, Matplotlib, Seaborn
+- **Results:** Random Forest achieved ROC-AUC of 1.00 | Max Heart Rate is top predictor
+- **Skills:** Classification, feature importance, healthcare analytics, EDA
+- **Domain:** Healthcare 🏥
+
+
 ---
 
 ## 🎯 Key Learnings
